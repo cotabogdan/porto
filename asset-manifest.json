@@ -1,17 +1,16 @@
 {
   "files": {
     "main.css": "/porto/static/css/main.e24fc832.css",
-    "main.js": "/porto/static/js/main.53455fac.js",
+    "main.js": "/porto/static/js/main.68203855.js",
     "static/js/787.aa91bb41.chunk.js": "/porto/static/js/787.aa91bb41.chunk.js",
     "static/media/color-sharp.png": "/porto/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/porto/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/banner-bg.png": "/porto/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/header-img.svg": "/porto/static/media/header-img.400baa4260daac98f2b2b1ccf08761c2.svg",
-    "static/media/project-img1.png": "/porto/static/media/project-img1.d593db3f12901bc685c2.png",
     "static/media/footer-bg.png": "/porto/static/media/footer-bg.7bd67c0f73571d0acc02.png",
-    "static/media/project-img2.png": "/porto/static/media/project-img2.2e52097c417f9f1134b0.png",
-    "static/media/project-img3.png": "/porto/static/media/project-img3.675b30d2f975a1bc1d09.png",
+    "static/media/rct.png": "/porto/static/media/rct.c6148fb8c118c1637091.png",
     "static/media/contact-img.svg": "/porto/static/media/contact-img.62aa99e0f3b968b5d1ce9eb047f34fc7.svg",
+    "static/media/loggo.png": "/porto/static/media/loggo.8e2d38f4001a889c7cf0.png",
     "static/media/revicons.eot": "/porto/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/porto/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/porto/static/media/revicons.e8746a624ed098489406.woff",
@@ -29,11 +28,11 @@
     "static/media/CentraNo2-Book.ttf": "/porto/static/media/CentraNo2-Book.31d6cfe0d16ae931b73c.ttf",
     "static/media/CentraNo2-Medium.ttf": "/porto/static/media/CentraNo2-Medium.31d6cfe0d16ae931b73c.ttf",
     "main.e24fc832.css.map": "/porto/static/css/main.e24fc832.css.map",
-    "main.53455fac.js.map": "/porto/static/js/main.53455fac.js.map",
+    "main.68203855.js.map": "/porto/static/js/main.68203855.js.map",
     "787.aa91bb41.chunk.js.map": "/porto/static/js/787.aa91bb41.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e24fc832.css",
-    "static/js/main.53455fac.js"
+    "static/js/main.68203855.js"
   ]
 }
